@@ -1,0 +1,33 @@
+{
+    "draw": 1,
+    "recordsTotal": 4,
+    "recordsFiltered": 4,
+    "data": [
+        {
+            "No": 1,
+            "Kode": "TPJ00007",
+            "Nama_Anggota": "fulan",
+            "Dept": "Engineering",
+            "Tanggal_Pinjam": "24 Jun 2024",
+            "Tanggal_Tempo": "24 Jun 2025",
+            "Lama_Pinjaman": "12 Bulan",
+            "Total_Tagihan": "12.000.000",
+            "Total_Denda": "1.000.000",
+            "Dibayar": "10.000.000",
+            "Aksi": "<a href='angsuran/detail' class='btn btn-default btn-sm' type='button'><i class='fal fa-exclamation-triangle mr-1 text-danger'></i>Bayar</a>"
+        },
+        {
+            "No": 2,
+            "Kode": "TPJ00008",
+            "Nama_Anggota": "john",
+            "Dept": "Finance",
+            "Tanggal_Pinjam": "24 Jul 2024",
+            "Tanggal_Tempo": "24 Jul 2025",
+            "Lama_Pinjaman": "12 Bulan",
+            "Total_Tagihan": "10.000.000",
+            "Total_Denda": "500.000",
+            "Dibayar": "8.000.000",
+            "Aksi": "<a href='angsuran/detail' class='btn btn-default btn-sm' type='button'><i class='fal fa-exclamation-triangle mr-1 text-danger'></i>Bayar</a>"
+        }
+    ]
+}

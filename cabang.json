@@ -1,0 +1,39 @@
+{
+    "draw": 1,
+    "recordsTotal": 4,
+    "recordsFiltered": 4,
+    "data": [
+        {
+            "id": "cabang_001",
+            "region_id": "region_001",
+            "name": "Cabang Jakarta Pusat",
+            "address": "Jl. Sudirman No. 10, Jakarta Pusat",
+            "phone": "+62 21 11112222",
+            "email": "cabangjakartapusat@indukkoperasia.com"
+        },
+        {
+            "id": "cabang_002",
+            "region_id": "region_001",
+            "name": "Cabang Jakarta Selatan",
+            "address": "Jl. Gatot Subroto No. 5, Jakarta Selatan",
+            "phone": "+62 21 22223333",
+            "email": "cabangjakartaselatan@indukkoperasia.com"
+        },
+        {
+            "id": "cabang_003",
+            "region_id": "region_002",
+            "name": "Cabang Bandung Utara",
+            "address": "Jl. Dago No. 20, Bandung",
+            "phone": "+62 22 22221111",
+            "email": "cabangbandungutara@indukkoperasia.com"
+        },
+        {
+            "id": "cabang_004",
+            "region_id": "region_002",
+            "name": "Cabang Bandung Selatan",
+            "address": "Jl. Buah Batu No. 7, Bandung",
+            "phone": "+62 22 33332222",
+            "email": "cabangbandungselatan@indukkoperasia.com"
+        }
+    ]
+}

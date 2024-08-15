@@ -1,0 +1,24 @@
+[
+    {
+        "no": 1,
+        "kode_pinjam": "PJ2404007",
+        "nama_anggota": "Markonah",
+        "tanggal_pinjam": "23 Juni 2024",
+        "tanggal_tempo": "15 Juni 2024",
+        "lama_pinjam": "12 Bulan",
+        "jml_tagihan": 10000000,
+        "dibayar": 1456000,
+        "sisa_tagihan": 10000000
+    },
+    {
+        "no": "Jumlah",
+        "kode_pinjam": "",
+        "nama_anggota": "",
+        "tanggal_pinjam": "",
+        "tanggal_tempo": "",
+        "lama_pinjam": "",
+        "jml_tagihan": 10000000,
+        "dibayar": 1456000,
+        "sisa_tagihan": 10000000
+    }
+]

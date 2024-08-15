@@ -1,0 +1,86 @@
+[
+    {
+      "no": 1,
+      "id_anggota": "member1",
+      "nama_anggota": "FAISAL",
+      "jns_kel": "Laki-Laki",
+      "jabatan": "Anggota Produksi BOPP",
+      "alamat": "Duren Sawit, Jakarta Timur",
+      "telp": "089533222331",
+      "status": "Aktif",
+      "tgl_reg": "11 Mei 2023",
+      "foto": "<img src='<img src='https://ui-avatars.com/api/?background=0D8ABC&color=fff&name='>"
+    },
+    {
+      "no": 2,
+      "id_anggota": "member2",
+      "nama_anggota": "GEO HALOMOAN SIMANJUNTAK",
+      "jns_kel": "Laki-Laki",
+      "jabatan": "Anggota Produksi BOPP",
+      "alamat": "Villa Mutiara Jaya 2, Cibititung",
+      "telp": "081362787674",
+      "status": "Aktif",
+      "tgl_reg": "22 Mei 2023",
+      "foto": "<img src='<img src='https://ui-avatars.com/api/?background=0D8ABC&color=fff&name='>"
+    },
+    {
+      "no": 3,
+      "id_anggota": "anggota",
+      "nama_anggota": "WIDI ALJATSIYAH",
+      "jns_kel": "Laki-Laki",
+      "jabatan": "Anggota",
+      "alamat": "Jl Padasuka RT/RW 03/014 Kp Cihandiwung",
+      "telp": "089660688594",
+      "status": "Aktif",
+      "tgl_reg": "05 Jun 2023",
+      "foto": "<img src='<img src='https://ui-avatars.com/api/?background=0D8ABC&color=fff&name='>"
+    },
+    {
+      "no": 4,
+      "id_anggota": "fulan",
+      "nama_anggota": "FULAN",
+      "jns_kel": "Laki-Laki",
+      "jabatan": "Anggota Engineering",
+      "alamat": "Depok",
+      "telp": "Tidak-Terdaftar",
+      "status": "Aktif",
+      "tgl_reg": "29 Jan 2024",
+      "foto": "<img src='<img src='https://ui-avatars.com/api/?background=0D8ABC&color=fff&name='>"
+    },
+    {
+      "no": 5,
+      "id_anggota": "pengguna",
+      "nama_anggota": "PENGGUNA",
+      "jns_kel": "Laki-Laki",
+      "jabatan": "Anggota Engineering",
+      "alamat": "Ciseeng, Bogor",
+      "telp": "Tidak-Terdaftar",
+      "status": "Aktif",
+      "tgl_reg": "02 Feb 2024",
+      "foto": "<img src='https://ui-avatars.com/api/?background=0D8ABC&color=fff&name='>"
+    },
+    {
+      "no": 6,
+      "id_anggota": "cahyadi001",
+      "nama_anggota": "CAHYADI",
+      "jns_kel": "Laki-Laki",
+      "jabatan": "Anggota",
+      "alamat": "Jl Swasembada no 69, Kota Cirebon",
+      "telp": "082778778987",
+      "status": "Aktif",
+      "tgl_reg": "24 Jun 2024",
+      "foto": "<img src='<img src='https://ui-avatars.com/api/?background=0D8ABC&color=fff&name='>"
+    },
+    {
+      "no": 7,
+      "id_anggota": "Renaldi Ambon",
+      "nama_anggota": "RENALDI",
+      "jns_kel": "Laki-Laki",
+      "jabatan": "Anggota Produksi BOPP",
+      "alamat": "Gunung Kidul",
+      "telp": "087877985405",
+      "status": "Aktif",
+      "tgl_reg": "29 Jun 2024",
+      "foto": "<img src='<img src='https://ui-avatars.com/api/?background=0D8ABC&color=fff&name='>"
+    }
+  ]

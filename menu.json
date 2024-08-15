@@ -1,0 +1,321 @@
+[
+    {
+        "menu_utama": "Dashboard",
+        "sub_menu": [],
+        "icon": "fal fa-tachometer-alt",
+        "sidebar": "dashboard",
+        "url": "/dashboard"
+    },
+    {
+        "menu_utama": "Transaksi",
+        "sub_menu": [
+            {
+                "nama_sub_menu": "Pemasukan Kas Tunai",
+                "icon": "fal fa-cash-register",
+                "url": "/koperasi/transaksi/pemasukan",
+                "sidebar": "transaksi_pemasukan"
+            },
+            {
+                "nama_sub_menu": "Pengeluaran Kas Tunai",
+                "icon": "fal fa-money-bill-wave",
+                "url": "/koperasi/transaksi/pengeluaran",
+                "sidebar": "transaksi_pengeluaran"
+            },
+            {
+                "nama_sub_menu": "Transfer Kas",
+                "icon": "fal fa-exchange-alt",
+                "url": "/koperasi/transaksi/transfer",
+                "sidebar": "transaksi_transfer"
+            }
+        ],
+        "icon": "fal fa-exchange-alt",
+        "url": "/koperasi/transaksi",
+        "sidebar": "transaksi"
+    },
+    {
+        "menu_utama": "Simpanan",
+        "sub_menu": [
+            {
+                "nama_sub_menu": "Setoran Tunai",
+                "icon": "fal fa-money-bill-alt",
+                "url": "/koperasi/simpanan/setoran",
+                "sidebar": "simpanan_setoran"
+            },
+            {
+                "nama_sub_menu": "Penarikan Tunai",
+                "icon": "fal fa-hand-holding-usd",
+                "url": "/koperasi/simpanan/penarikan",
+                "sidebar": "simpanan_penarikan"
+            }
+        ],
+        "icon": "fal fa-money-bill-alt",
+        "url": "/koperasi/simpanan",
+        "sidebar": "simpanan"
+    },
+    {
+        "menu_utama": "Pinjaman",
+        "sub_menu": [
+            {
+                "nama_sub_menu": "Data Pengajuan",
+                "icon": "fal fa-folder-open",
+                "url": "/koperasi/pinjaman/pengajuan",
+                "sidebar": "pinjaman_pengajuan"
+            },
+            {
+                "nama_sub_menu": "Data Pinjaman",
+                "icon": "fal fa-file-alt",
+                "url": "/koperasi/pinjaman/pinjam",
+                "sidebar": "pinjaman_data"
+            },
+            {
+                "nama_sub_menu": "Bayar Angsuran",
+                "icon": "fal fa-credit-card",
+                "url": "/koperasi/pinjaman/angsuran",
+                "sidebar": "pinjaman_angsuran"
+            },
+            {
+                "nama_sub_menu": "Pinjaman Lunas",
+                "icon": "fal fa-check-circle",
+                "url": "/koperasi/pinjaman/lunas",
+                "sidebar": "pinjaman_lunas"
+            }
+        ],
+        "icon": "fal fa-handshake",
+        "url": "/koperasi/pinjaman",
+        "sidebar": "pinjaman"
+    },
+    {
+        "menu_utama": "Laporan",
+        "sub_menu": [
+            {
+                "nama_sub_menu": "Data Anggota",
+                "icon": "fal fa-users",
+                "url": "/koperasi/laporan/data-anggota",
+                "sidebar": "laporan_data_anggota"
+            },
+            {
+                "nama_sub_menu": "Kas Anggota",
+                "icon": "fal fa-wallet",
+                "url": "/koperasi/laporan/kas-anggota",
+                "sidebar": "laporan_kas_anggota"
+            },
+            {
+                "nama_sub_menu": "Jatuh Tempo",
+                "icon": "fal fa-calendar-alt",
+                "url": "/koperasi/laporan/jatuh-tempo",
+                "sidebar": "laporan_jatuh_tempo"
+            },
+            {
+                "nama_sub_menu": "Kredit Macet",
+                "icon": "fal fa-exclamation-triangle",
+                "url": "/koperasi/laporan/kredit-macet",
+                "sidebar": "laporan_kredit_macet"
+            },
+            {
+                "nama_sub_menu": "Transaksi Kas",
+                "icon": "fal fa-receipt",
+                "url": "/koperasi/laporan/transaksi-kas",
+                "sidebar": "laporan_transaksi_kas"
+            },
+            {
+                "nama_sub_menu": "Buku Besar",
+                "icon": "fal fa-book",
+                "url": "/koperasi/laporan/buku-besar",
+                "sidebar": "laporan_buku_besar"
+            },
+            {
+                "nama_sub_menu": "Neraca Saldo",
+                "icon": "fal fa-balance-scale",
+                "url": "/koperasi/laporan/neraca-saldo",
+                "sidebar": "laporan_neraca_saldo"
+            },
+            {
+                "nama_sub_menu": "Kas Simpanan",
+                "icon": "fal fa-coins",
+                "url": "/koperasi/laporan/kas-simpanan",
+                "sidebar": "laporan_kas_simpanan"
+            },
+            {
+                "nama_sub_menu": "Kas Pinjaman",
+                "icon": "fal fa-hand-holding-usd",
+                "url": "/koperasi/laporan/kas-pinjaman",
+                "sidebar": "laporan_kas_pinjaman"
+            },
+            {
+                "nama_sub_menu": "Saldo Kas",
+                "icon": "fal fa-money-check-alt",
+                "url": "/koperasi/laporan/saldo-kas",
+                "sidebar": "laporan_saldo_kas"
+            },
+            {
+                "nama_sub_menu": "Laba Rugi",
+                "icon": "fal fa-chart-line",
+                "url": "/koperasi/laporan/laba-rugi",
+                "sidebar": "laporan_laba_rugi"
+            },
+            {
+                "nama_sub_menu": "SHU",
+                "icon": "fal fa-chart-pie",
+                "url": "/koperasi/laporan/shu",
+                "sidebar": "laporan_shu"
+            }
+        ],
+        "icon": "fal fa-file-alt",
+        "url": "/koperasi/laporan",
+        "sidebar": "laporan"
+    },
+    {
+        "menu_utama": "Master Data",
+        "sub_menu": [
+            {
+                "nama_sub_menu": "Jenis Simpanan",
+                "icon": "fal fa-list",
+                "url": "/master/jenis-simpanan",
+                "sidebar": "master_data_jenis_simpanan"
+            },
+            {
+                "nama_sub_menu": "Jenis Akun",
+                "icon": "fal fa-tags",
+                "url": "/master/jenis-akun",
+                "sidebar": "master_data_jenis_akun"
+            },
+            {
+                "nama_sub_menu": "Data Kas",
+                "icon": "fal fa-database",
+                "url": "/master/data-kas",
+                "sidebar": "master_data_data_kas"
+            },
+            {
+                "nama_sub_menu": "Lama Angsuran",
+                "icon": "fal fa-clock",
+                "url": "/master/lama-angsuran",
+                "sidebar": "master_data_lama_angsuran"
+            },
+            {
+                "nama_sub_menu": "Data Supplier",
+                "icon": "fal fa-boxes",
+                "url": "/master/data-supplier",
+                "sidebar": "master_data_supplier"
+            },
+            {
+                "nama_sub_menu": "Data Category",
+                "icon": "fal fa-boxes",
+                "url": "/master/data-category",
+                "sidebar": "master_data_category"
+            },
+            {
+                "nama_sub_menu": "Data Barang",
+                "icon": "fal fa-boxes",
+                "url": "/master/data-barang",
+                "sidebar": "master_data_data_barang"
+            }
+        ],
+        "icon": "fal fa-cogs",
+        "url": "/master",
+        "sidebar": "master"
+    },
+    {
+        "menu_utama": "Registrasi",
+        "sub_menu": [
+            {
+                "nama_sub_menu": "Data Regional",
+                "icon": "fal fa-map-marker",
+                "url": "/registrasi/regional",
+                "sidebar": "registrasi_regional"
+            },
+            {
+                "nama_sub_menu": "Data Cabang",
+                "icon": "fal fa-building",
+                "url": "/registrasi/cabang",
+                "sidebar": "registrasi_cabang"
+            },
+            {
+                "nama_sub_menu": "Data Koperasi",
+                "icon": "fal fa-id-card",
+                "url": "/registrasi/koperasi",
+                "sidebar": "registrasi_koperasi"
+            },
+            {
+                "nama_sub_menu": "Data Anggota",
+                "icon": "fal fa-users",
+                "url": "/registrasi/anggota",
+                "sidebar": "registrasi_anggota"
+            },
+            {
+                "nama_sub_menu": "Hak Akses",
+                "icon": "fal fa-ban",
+                "url": "/registrasi/hak_akses",
+                "sidebar": "registrasi_hak_akses"
+            }
+        ],
+        "icon": "fal fa-sign-in",
+        "url": "/registrasi",
+        "sidebar": "registrasi"
+    },
+    {
+        "menu_utama": "Setting",
+        "sub_menu": [
+            {
+                "nama_sub_menu": "Profil Koperasi",
+                "icon": "fal fa-id-card",
+                "url": "/setting/profil",
+                "sidebar": "setting_app"
+            }
+        ],
+        "icon": "fal fa-cog",
+        "url": "/setting",
+        "sidebar": "setting"
+    },
+    {
+        "menu_utama": "Marketplace",
+        "sub_menu": [
+            {
+                "nama_sub_menu": "Category",
+                "icon": "fal fa-tag",
+                "url": "/marketplace/produk/category",
+                "sidebar": "marketplace_category"
+            },
+            {
+                "nama_sub_menu": "Produk",
+                "icon": "fal fa-box-open",
+                "url": "/marketplace/produk",
+                "sidebar": "marketplace_produk"
+            },
+            {
+                "nama_sub_menu": "Transaksi Pembelian",
+                "icon": "fal fa-shopping-cart",
+                "url": "/marketplace/transaksi-pembelian",
+                "sidebar": "marketplace_transaksi_pembelian"
+            },
+            {
+                "nama_sub_menu": "Transaksi Penjualan",
+                "icon": "fal fa-cash-register",
+                "url": "/marketplace/transaksi-penjualan",
+                "sidebar": "marketplace_transaksi_penjualan"
+            }
+        ],
+        "icon": "fal fa-store",
+        "url": "/marketplace",
+        "sidebar": "marketplace"
+    },
+    {
+        "menu_utama": "PPOB",
+        "sub_menu": [
+            {
+                "nama_sub_menu": "Pulsa & Tagihan",
+                "icon": "fal fa-mobile",
+                "url": "/ppob/pulsa",
+                "sidebar": "ppob_pulsa"
+            },
+            {
+                "nama_sub_menu": "Laporan",
+                "icon": "fal fa-file-alt",
+                "url": "/ppob/laporan",
+                "sidebar": "ppob_laporan"
+            }
+        ],
+        "icon": "fal fa-receipt",
+        "url": "/ppob",
+        "sidebar": "ppob"
+    }
+]

@@ -1,0 +1,55 @@
+{
+    "Telkomsel": [
+        { "nama": "Pulsa 10k", "harga": "9,200", "masa_aktif": "5 hari" },
+        { "nama": "Pulsa 20k", "harga": "19,050", "masa_aktif": "7 hari" },
+        { "nama": "Pulsa 25k", "harga": "24,100", "masa_aktif": "14 hari" },
+        { "nama": "Paket Bicara 25k", "harga": "24,100", "masa_aktif": "14 hari" },
+        { "nama": "Pulsa 50k", "harga": "48,100", "masa_aktif": "30 hari" },
+        { "nama": "Pulsa 100k", "harga": "98,000", "masa_aktif": "40 hari" }
+    ],
+    "Indosat Ooredoo": [
+        { "nama": "Pulsa 10k", "harga": "9,200", "masa_aktif": "5 hari" },
+        { "nama": "Pulsa 20k", "harga": "19,050", "masa_aktif": "7 hari" },
+        { "nama": "Pulsa 25k", "harga": "24,100", "masa_aktif": "14 hari" },
+        { "nama": "Pulsa 50k", "harga": "48,100", "masa_aktif": "30 hari" },
+        { "nama": "Pulsa 100k", "harga": "98,000", "masa_aktif": "40 hari" }
+    ],
+    "XL Axiata": [
+        { "nama": "Pulsa 10k", "harga": "9,200", "masa_aktif": "5 hari" },
+        { "nama": "Pulsa 20k", "harga": "19,050", "masa_aktif": "7 hari" },
+        { "nama": "Pulsa 25k", "harga": "24,100", "masa_aktif": "14 hari" },
+        { "nama": "Paket Bicara 25k", "harga": "24,100", "masa_aktif": "14 hari" },
+        { "nama": "Pulsa 50k", "harga": "48,100", "masa_aktif": "30 hari" },
+        { "nama": "Pulsa 100k", "harga": "98,000", "masa_aktif": "40 hari" }
+    ],
+    "Axis": [
+        { "nama": "Pulsa 10k", "harga": "9,200", "masa_aktif": "5 hari" },
+        { "nama": "Pulsa 20k", "harga": "19,050", "masa_aktif": "7 hari" },
+        { "nama": "Pulsa 25k", "harga": "24,100", "masa_aktif": "14 hari" },
+        { "nama": "Pulsa 50k", "harga": "48,100", "masa_aktif": "30 hari" },
+        { "nama": "Pulsa 100k", "harga": "98,000", "masa_aktif": "40 hari" }
+    ],
+    "Tri": [
+        { "nama": "Pulsa 10k", "harga": "9,200", "masa_aktif": "5 hari" },
+        { "nama": "Pulsa 20k", "harga": "19,050", "masa_aktif": "7 hari" },
+        { "nama": "Pulsa 25k", "harga": "24,100", "masa_aktif": "14 hari" },
+        { "nama": "Pulsa 50k", "harga": "48,100", "masa_aktif": "30 hari" },
+        { "nama": "Pulsa 100k", "harga": "98,000", "masa_aktif": "40 hari" }
+    ],
+    "Byu": [
+        { "nama": "Pulsa 10k", "harga": "9,200", "masa_aktif": "5 hari" },
+        { "nama": "Pulsa 20k", "harga": "19,050", "masa_aktif": "7 hari" },
+        { "nama": "Pulsa 25k", "harga": "24,100", "masa_aktif": "14 hari" },
+        { "nama": "Pulsa 25k", "harga": "24,100", "masa_aktif": "14 hari" },
+        { "nama": "Pulsa 50k", "harga": "48,100", "masa_aktif": "30 hari" },
+        { "nama": "Pulsa 100k", "harga": "98,000", "masa_aktif": "40 hari" }
+    ],
+    "Smartfren": [
+        { "nama": "Pulsa 10k", "harga": "9,200", "masa_aktif": "5 hari" },
+        { "nama": "Pulsa 20k", "harga": "19,050", "masa_aktif": "7 hari" },
+        { "nama": "Pulsa 25k", "harga": "24,100", "masa_aktif": "14 hari" },
+        { "nama": "Pulsa 25k", "harga": "24,100", "masa_aktif": "14 hari" },
+        { "nama": "Pulsa 50k", "harga": "48,100", "masa_aktif": "30 hari" },
+        { "nama": "Pulsa 100k", "harga": "98,000", "masa_aktif": "40 hari" }
+    ]
+}

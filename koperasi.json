@@ -1,0 +1,43 @@
+{
+    "draw": 1,
+    "recordsTotal": 4,
+    "recordsFiltered": 4,
+    "data": [
+        {
+            "id": "koperasi_001",
+            "region_id": "region_001",
+            "cabang_id": "cabang_001",
+            "name": "Koperasi Karyawan Jakarta Pusat",
+            "address": "Jl. Sudirman No. 11, Jakarta Pusat",
+            "phone": "+62 21 33334444",
+            "email": "koperasijakartapusat@indukkoperasia.com"
+        },
+        {
+            "id": "koperasi_002",
+            "region_id": "region_001",
+            "cabang_id": "cabang_002",
+            "name": "Koperasi Karyawan Jakarta Selatan",
+            "address": "Jl. Gatot Subroto No. 6, Jakarta Selatan",
+            "phone": "+62 21 44445555",
+            "email": "koperasijakartaselatan@indukkoperasia.com"
+        },
+        {
+            "id": "koperasi_003",
+            "region_id": "region_002",
+            "cabang_id": "cabang_003",
+            "name": "Koperasi Karyawan Bandung Utara",
+            "address": "Jl. Dago No. 21, Bandung",
+            "phone": "+62 22 44441111",
+            "email": "koperasibandungutara@indukkoperasia.com"
+        },
+        {
+            "id": "koperasi_004",
+            "region_id": "region_002",
+            "cabang_id": "cabang_004",
+            "name": "Koperasi Karyawan Bandung Selatan",
+            "address": "Jl. Buah Batu No. 8, Bandung",
+            "phone": "+62 22 55552222",
+            "email": "koperasibandungselatan@indukkoperasia.com"
+        }
+    ]
+}

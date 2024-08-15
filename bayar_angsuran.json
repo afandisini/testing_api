@@ -1,0 +1,49 @@
+{
+    "draw": 1,
+    "recordsTotal": 3,
+    "recordsFiltered": 3,
+    "data": [
+      {
+        "No": 1,
+        "Kode": "TPJ00007",
+        "Tanggal_Pinjam": "24 Jun 2024",
+        "ID_Anggota": "fulan",
+        "Nama_Anggota": "fulan - Engineering",
+        "Pokok_Pinjaman": "10,000,000",
+        "Lama_Pinjaman": "24 Bulan",
+        "Angsuran_Pokok": "416,667",
+        "Bunga_Angsuran": "1,000,000",
+        "Biaya_Admin": "1,500",
+        "Angsuran_Per_Bulan": "1,418,200",
+        "Bayar": "Belum Bayar"
+      },
+      {
+        "No": 2,
+        "Kode": "TPJ00008",
+        "Tanggal_Pinjam": "24 Jun 2024",
+        "ID_Anggota": "fulan",
+        "Nama_Anggota": "fulan - Engineering",
+        "Pokok_Pinjaman": "10,000,000",
+        "Lama_Pinjaman": "24 Bulan",
+        "Angsuran_Pokok": "416,667",
+        "Bunga_Angsuran": "1,000,000",
+        "Biaya_Admin": "1,500",
+        "Angsuran_Per_Bulan": "1,418,200",
+        "Bayar": "Belum Bayar"
+      },
+      {
+        "No": 3,
+        "Kode": "TPJ00006",
+        "Tanggal_Pinjam": "24 Jun 2024",
+        "ID_Anggota": "cahyadi001",
+        "Nama_Anggota": "Cahyadi",
+        "Pokok_Pinjaman": "10,000,000",
+        "Lama_Pinjaman": "12 Bulan",
+        "Angsuran_Pokok": "833,333",
+        "Bunga_Angsuran": "1,000,000",
+        "Biaya_Admin": "1,500",
+        "Angsuran_Per_Bulan": "1,834,800",
+        "Bayar": "Sudah Bayar"
+      }
+    ]
+  }

@@ -1,0 +1,49 @@
+{
+    "A_Aktiva_Lancar": [
+        {"no": 1, "keterangan": "Kas Tunai", "debet": -28250200, "kredit": 0},
+        {"no": 2, "keterangan": "Kas Besar", "debet": 0, "kredit": 0},
+        {"no": 3, "keterangan": "Transfer", "debet": 0, "kredit": 0},
+        {"no": 4, "keterangan": "001. transaksi", "debet": 0, "kredit": 0},
+        {"no": 5, "keterangan": "Piutang Usaha", "debet": 0, "kredit": 0},
+        {"no": 6, "keterangan": "Pinjaman Anggota", "debet": 30000000, "kredit": 0},
+        {"no": 7, "keterangan": "Persediaan Barang", "debet": 0, "kredit": 0},
+        {"no": 8, "keterangan": "Biaya Dibayar Dimuka", "debet": 0, "kredit": 0},
+        {"no": 9, "keterangan": "Perlengkapan Usaha", "debet": 0, "kredit": 0},
+        {"no": 10, "keterangan": "Permisalan", "debet": 0, "kredit": 0}
+    ],
+    "C_Aktiva_Tetap_Berwujud": [
+        {"no": 1, "keterangan": "Peralatan Kantor", "debet": 0, "kredit": 0},
+        {"no": 2, "keterangan": "Inventaris Kendaraan", "debet": 0, "kredit": 0},
+        {"no": 3, "keterangan": "Mesin", "debet": 0, "kredit": 0},
+        {"no": 4, "keterangan": "Aktiva Tetap Lainnya", "debet": 0, "kredit": 0}
+    ],
+    "F_Utang": [
+        {"no": 1, "keterangan": "Utang Usaha", "debet": 0, "kredit": 0},
+        {"no": 2, "keterangan": "Simpanan Sukarela", "debet": 0, "kredit": -35000},
+        {"no": 3, "keterangan": "Utang Pajak", "debet": 0, "kredit": 0}
+    ],
+    "H_Utang_Jangka_Panjang": [
+        {"no": 1, "keterangan": "Utang Bank", "debet": 0, "kredit": 0}
+    ],
+    "I_Modal": [
+        {"no": 1, "keterangan": "Simpanan Pokok", "debet": 0, "kredit": -50000},
+        {"no": 2, "keterangan": "Simpanan Wajib", "debet": 0, "kredit": 0},
+        {"no": 3, "keterangan": "Modal Awal", "debet": 0, "kredit": 0},
+        {"no": 4, "keterangan": "Modal Sumbangan", "debet": 0, "kredit": 0},
+        {"no": 5, "keterangan": "Modal Cadangan", "debet": 0, "kredit": 0}
+    ],
+    "J_Pendapatan": [
+        {"no": 1, "keterangan": "Pembayaran Angsuran", "debet": 0, "kredit": 1834800},
+        {"no": 2, "keterangan": "Pendapatan Lainnya", "debet": 0, "kredit": 0}
+    ],
+    "K_Beban": [
+        {"no": 1, "keterangan": "Beban Gaji Karyawan", "debet": 0, "kredit": 0},
+        {"no": 2, "keterangan": "Biaya Listrik dan Air", "debet": 0, "kredit": 0},
+        {"no": 3, "keterangan": "Biaya Transportasi", "debet": 0, "kredit": 0},
+        {"no": 4, "keterangan": "Biaya Lainnya", "debet": 0, "kredit": 0}
+    ],
+    "JUMLAH": {
+        "debet": 1749800,
+        "kredit": 1749800
+    }
+}

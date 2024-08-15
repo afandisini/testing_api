@@ -1,0 +1,18 @@
+[
+    {
+        "customer_id": "14474398592",
+        "customer_name": "SYAHDAN.N",
+        "address": "Jl. Mawar No. 123, Jakarta",
+        "tariff": "R1/900VA",
+        "electricity_type": "Token Listrik",
+        "pelanggan": "PRA BAYAR"
+    },
+    {
+        "customer_id": "12345678901",
+        "customer_name": "ADI SANTOSO",
+        "address": "Jl. Melati No. 45, Bandung",
+        "tariff": "R1/1300VA",
+        "electricity_type": "Token Listrik",
+        "pelanggan": "PRA BAYAR"
+    }
+]

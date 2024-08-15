@@ -1,0 +1,37 @@
+{
+    "draw": 1,
+    "recordsTotal": 3,
+    "recordsFiltered": 3,
+    "data": [
+        {
+            "region_id": "region_001",
+            "cabang_id": "cabang_002",
+            "koperasi_id": "koperasi_002",
+            "category_id": "CAT001",
+            "name": "Electronics",
+            "slug": "electronics",
+            "keterangan": "Ok",
+            "last_order_date": "2024-07-25"
+        },
+        {
+            "region_id": "region_001",
+            "cabang_id": "cabang_002",
+            "koperasi_id": "koperasi_002",
+            "category_id": "CAT002",
+            "name": "Fashion",
+            "slug": "fashion",
+            "keterangan": "Ok",
+            "last_order_date": "2024-07-28"
+        },
+        {
+            "region_id": "region_001",
+            "cabang_id": "cabang_002",
+            "koperasi_id": "koperasi_002",
+            "category_id": "CAT003",
+            "name": "Home & Garden",
+            "slug": "home-garden",
+            "keterangan": "Ok",
+            "last_order_date": "2024-07-20"
+        }
+    ]
+}

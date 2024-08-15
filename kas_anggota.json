@@ -1,0 +1,191 @@
+[
+    {
+        "no": 1,
+        "photo": "default",
+        "identitas": {
+            "id_anggota": "member1",
+            "nama": "FAISAL",
+            "jenis_kelamin": "Laki-Laki",
+            "jabatan": "Anggota - Produksi BOPP",
+            "alamat": "duren sawit, jakarta timur Telp.089533222331"
+        },
+        "saldo_simpanan": {
+            "simpanan_sukarela": 0,
+            "simpanan_pokok": 0,
+            "simpanan_wajib": 0,
+            "jumlah_simpanan": 0
+        },
+        "tagihan_kredit": {
+            "pokok_pinjaman": 0,
+            "tagihan_denda": 0,
+            "dibayar": 0,
+            "sisa_tagihan": 0,
+            "jumlah_pinjaman": 0,
+            "pinjaman_lunas": 0
+        },
+        "pembayaran": "Lancar",
+        "tanggal_tempo": ""
+    },
+    {
+        "no": 2,
+        "photo": "Foto",
+        "identitas": {
+            "id_anggota": "member2",
+            "nama": "GEO HALOMOAN SIMANJUNTAK",
+            "jenis_kelamin": "Laki-Laki",
+            "jabatan": "Anggota - Produksi BOPP",
+            "alamat": "villa mutiara jaya 2 cibititung Telp.081362787674"
+        },
+        "saldo_simpanan": {
+            "simpanan_sukarela": 0,
+            "simpanan_pokok": -100000,
+            "simpanan_wajib": 0,
+            "jumlah_simpanan": -100000
+        },
+        "tagihan_kredit": {
+            "pokok_pinjaman": 0,
+            "tagihan_denda": 0,
+            "dibayar": 0,
+            "sisa_tagihan": 0,
+            "jumlah_pinjaman": 0,
+            "pinjaman_lunas": 0
+        },
+        "pembayaran": "Lancar",
+        "tanggal_tempo": ""
+    },
+    {
+        "no": 3,
+        "photo": "Foto",
+        "identitas": {
+            "id_anggota": "anggota",
+            "nama": "WIDI ALJATSIYAH",
+            "jenis_kelamin": "Laki-Laki",
+            "jabatan": "Anggota",
+            "alamat": "Jl Padasuka RT/RW 03/014 Kp cihandiwung Telp.089660688594"
+        },
+        "saldo_simpanan": {
+            "simpanan_sukarela": 0,
+            "simpanan_pokok": -100000,
+            "simpanan_wajib": 0,
+            "jumlah_simpanan": -100000
+        },
+        "tagihan_kredit": {
+            "pokok_pinjaman": 0,
+            "tagihan_denda": 0,
+            "dibayar": 0,
+            "sisa_tagihan": 0,
+            "jumlah_pinjaman": 0,
+            "pinjaman_lunas": 0
+        },
+        "pembayaran": "Lancar",
+        "tanggal_tempo": ""
+    },
+    {
+        "no": 4,
+        "photo": "default",
+        "identitas": {
+            "id_anggota": "fulan",
+            "nama": "FULAN",
+            "jenis_kelamin": "Laki-Laki",
+            "jabatan": "Anggota - Engineering",
+            "alamat": "depok Telp."
+        },
+        "saldo_simpanan": {
+            "simpanan_sukarela": -5000,
+            "simpanan_pokok": 0,
+            "simpanan_wajib": 0,
+            "jumlah_simpanan": -5000
+        },
+        "tagihan_kredit": {
+            "pokok_pinjaman": 10000000,
+            "tagihan_denda": 34036800,
+            "dibayar": 0,
+            "sisa_tagihan": 34036800,
+            "jumlah_pinjaman": 2,
+            "pinjaman_lunas": 0
+        },
+        "pembayaran": "Macet",
+        "tanggal_tempo": "24 Jun 2026"
+    },
+    {
+        "no": 5,
+        "photo": "Foto",
+        "identitas": {
+            "id_anggota": "pengguna",
+            "nama": "PENGGUNA",
+            "jenis_kelamin": "Laki-Laki",
+            "jabatan": "Anggota - Engineering",
+            "alamat": "Ciseeng Bogor Telp."
+        },
+        "saldo_simpanan": {
+            "simpanan_sukarela": -30000,
+            "simpanan_pokok": 0,
+            "simpanan_wajib": 0,
+            "jumlah_simpanan": -30000
+        },
+        "tagihan_kredit": {
+            "pokok_pinjaman": 0,
+            "tagihan_denda": 0,
+            "dibayar": 0,
+            "sisa_tagihan": 0,
+            "jumlah_pinjaman": 0,
+            "pinjaman_lunas": 0
+        },
+        "pembayaran": "Lancar",
+        "tanggal_tempo": ""
+    },
+    {
+        "no": 6,
+        "photo": "Foto",
+        "identitas": {
+            "id_anggota": "cahyadi001",
+            "nama": "CAHYADI",
+            "jenis_kelamin": "Laki-Laki",
+            "jabatan": "Anggota",
+            "alamat": "Jl Swasembada No 69 Kota Cirebon Telp.082778778987"
+        },
+        "saldo_simpanan": {
+            "simpanan_sukarela": 0,
+            "simpanan_pokok": 0,
+            "simpanan_wajib": 0,
+            "jumlah_simpanan": 0
+        },
+        "tagihan_kredit": {
+            "pokok_pinjaman": 10000000,
+            "tagihan_denda": 22017600,
+            "dibayar": 1834800,
+            "sisa_tagihan": 20182800,
+            "jumlah_pinjaman": 1,
+            "pinjaman_lunas": 0
+        },
+        "pembayaran": "Macet",
+        "tanggal_tempo": "24 Jun 2025"
+    },
+    {
+        "no": 7,
+        "photo": "Foto",
+        "identitas": {
+            "id_anggota": "Renaldi Ambon",
+            "nama": "RENALDI",
+            "jenis_kelamin": "Laki-Laki",
+            "jabatan": "Anggota - Produksi BOPP",
+            "alamat": "gunung kidul Telp.087877985405"
+        },
+        "saldo_simpanan": {
+            "simpanan_sukarela": 0,
+            "simpanan_pokok": 0,
+            "simpanan_wajib": 0,
+            "jumlah_simpanan": 0
+        },
+        "tagihan_kredit": {
+            "pokok_pinjaman": 0,
+            "tagihan_denda": 0,
+            "dibayar": 0,
+            "sisa_tagihan": 0,
+            "jumlah_pinjaman": 0,
+            "pinjaman_lunas": 0
+        },
+        "pembayaran": "Lancar",
+        "tanggal_tempo": ""
+    }
+]

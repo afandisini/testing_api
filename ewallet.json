@@ -1,0 +1,154 @@
+{
+    "eWalletPackages": [
+      {
+        "name": "GoPay",
+        "packages": [
+          {
+            "packageId": "gopay_10k",
+            "amount": 10000,
+            "price": 10000
+          },
+          {
+            "packageId": "gopay_20k",
+            "amount": 20000,
+            "price": 20000
+          },
+          {
+            "packageId": "gopay_50k",
+            "amount": 50000,
+            "price": 50000
+          },
+          {
+            "packageId": "gopay_100k",
+            "amount": 100000,
+            "price": 100000
+          }
+        ]
+      },
+      {
+        "name": "OVO",
+        "packages": [
+          {
+            "packageId": "ovo_10k",
+            "amount": 10000,
+            "price": 10000
+          },
+          {
+            "packageId": "ovo_20k",
+            "amount": 20000,
+            "price": 20000
+          },
+          {
+            "packageId": "ovo_50k",
+            "amount": 50000,
+            "price": 50000
+          },
+          {
+            "packageId": "ovo_100k",
+            "amount": 100000,
+            "price": 100000
+          }
+        ]
+      },
+      {
+        "name": "Dana",
+        "packages": [
+          {
+            "packageId": "dana_10k",
+            "amount": 10000,
+            "price": 10000
+          },
+          {
+            "packageId": "dana_20k",
+            "amount": 20000,
+            "price": 20000
+          },
+          {
+            "packageId": "dana_50k",
+            "amount": 50000,
+            "price": 50000
+          },
+          {
+            "packageId": "dana_100k",
+            "amount": 100000,
+            "price": 100000
+          }
+        ]
+      },
+      {
+        "name": "ShopeePay",
+        "packages": [
+          {
+            "packageId": "shopeepay_10k",
+            "amount": 10000,
+            "price": 10000
+          },
+          {
+            "packageId": "shopeepay_20k",
+            "amount": 20000,
+            "price": 20000
+          },
+          {
+            "packageId": "shopeepay_50k",
+            "amount": 50000,
+            "price": 50000
+          },
+          {
+            "packageId": "shopeepay_100k",
+            "amount": 100000,
+            "price": 100000
+          }
+        ]
+      },
+      {
+        "name": "TixID",
+        "packages": [
+          {
+            "packageId": "tixid_10k",
+            "amount": 10000,
+            "price": 10000
+          },
+          {
+            "packageId": "tixid_20k",
+            "amount": 20000,
+            "price": 20000
+          },
+          {
+            "packageId": "tixid_50k",
+            "amount": 50000,
+            "price": 50000
+          },
+          {
+            "packageId": "tixid_100k",
+            "amount": 100000,
+            "price": 100000
+          }
+        ]
+      },
+      {
+        "name": "LinkAja",
+        "packages": [
+          {
+            "packageId": "linkaja_10k",
+            "amount": 10000,
+            "price": 10000
+          },
+          {
+            "packageId": "linkaja_20k",
+            "amount": 20000,
+            "price": 20000
+          },
+          {
+            "packageId": "linkaja_50k",
+            "amount": 50000,
+            "price": 50000
+          },
+          {
+            "packageId": "linkaja_100k",
+            "amount": 100000,
+            "price": 100000
+          }
+        ]
+      }
+    ]
+  }

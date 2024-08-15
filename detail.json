@@ -1,0 +1,19 @@
+{
+    "DataAnggota": {
+      "IDAnggota": "fulan",
+      "NamaAnggota": "fulan",
+      "Dept": "Engineering",
+      "TempatTanggalLahir": "depok, 28 April 1994",
+      "KotaTinggal": "depok"
+    },
+    "DataPinjaman": {
+      "KodePinjam": "TPJ00007",
+      "TanggalPinjam": "24 Juni 2024",
+      "TanggalTempo": "24 Juni 2024",
+      "LamaPinjaman": "12 Bulan",
+      "PokokPinjaman": 10000000,
+      "AngsuranPokok": 416667,
+      "BiayaDanBunga": 1001500,
+      "JumlahAngsuran": 1418200
+    }
+  }

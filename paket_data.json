@@ -1,0 +1,27 @@
+{
+    "Telkomsel": [
+        { "nama": "Simpati 1GB", "kuota": "1GB", "harga": "30,000", "masa_aktif": "30 hari" },
+        { "nama": "Kartu As 3GB", "kuota": "3GB", "harga": "50,000", "masa_aktif": "30 hari" },
+        { "nama": "Combo Sakti", "kuota": "11GB", "harga": "30,000", "masa_aktif": "1 Minggu" }
+    ],
+    "Indosat Ooredoo": [
+        { "nama": "Freedom Data 2GB", "kuota": "2GB", "harga": "25,000", "masa_aktif": "30 hari" },
+        { "nama": "Mentari 5GB", "kuota": "5GB", "harga": "60,000", "masa_aktif": "30 hari" }
+    ],
+    "XL Axiata": [
+        { "nama": "Xtra Combo 2GB", "kuota": "2GB", "harga": "30,000", "masa_aktif": "30 hari" },
+        { "nama": "Xtra Unlimited 10GB", "kuota": "10GB", "harga": "100,000", "masa_aktif": "30 hari" },
+        { "nama": "Akrab S", "kuota": "26GB", "harga": "57,000", "masa_aktif": "30 hari" },
+        { "nama": "Paket Akrab SM", "kuota": "38GB", "harga": "77,500", "masa_aktif": "30 hari" },
+        { "nama": "Paket Akrab M", "kuota": "59GB", "harga": "110,000", "masa_aktif": "30 hari" },
+        { "nama": "Paket Akrab L", "kuota": "151GB", "harga": "180,000", "masa_aktif": "30 hari" }
+    ],
+    "Axis": [
+        { "nama": "Axis Unlimited 3GB", "kuota": "3GB", "harga": "40,000", "masa_aktif": "30 hari" },
+        { "nama": "HotRod 10GB", "kuota": "10GB", "harga": "90,000", "masa_aktif": "30 hari" }
+    ],
+    "Tri": [
+        { "nama": "Always On 5GB", "kuota": "5GB", "harga": "35,000", "masa_aktif": "30 hari" },
+        { "nama": "Internet Unlimited 15GB", "kuota": "15GB", "harga": "110,000", "masa_aktif": "30 hari" }
+    ]
+}

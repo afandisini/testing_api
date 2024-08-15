@@ -1,0 +1,103 @@
+{
+    "draw": 1,
+    "recordsTotal": 3,
+    "recordsFiltered": 3,
+    "data": [
+        {
+            "region_id": "region_001",
+            "cabang_id": "cabang_002",
+            "koperasi_id": "koperasi_002",
+            "supplier_id": "SUP001",
+            "supplier_name": "PT Beras Nusantara",
+            "address": "Jl. Padi No. 123, Jakarta",
+            "phone": "+62 21 555 1234",
+            "email": "info@berasnusantara.co.id",
+            "contact_person": "Budi Santoso",
+            "last_order_date": "2024-07-25"
+        },
+        {
+            "region_id": "region_001",
+            "cabang_id": "cabang_002",
+            "koperasi_id": "koperasi_002",
+            "supplier_id": "SUP002",
+            "supplier_name": "PT Minyak Sejahtera",
+            "address": "Jl. Minyak No. 456, Surabaya",
+            "phone": "+62 31 666 4567",
+            "email": "contact@minyaksejahtera.com",
+            "contact_person": "Ratna Dewi",
+            "last_order_date": "2024-07-28"
+        },
+        {
+            "region_id": "region_001",
+            "cabang_id": "cabang_002",
+            "koperasi_id": "koperasi_002",
+            "supplier_id": "SUP003",
+            "supplier_name": "PT Gula Manis",
+            "address": "Jl. Gula No. 789, Bandung",
+            "phone": "+62 22 777 7890",
+            "email": "sales@gulamanis.co.id",
+            "contact_person": "Haryanto",
+            "last_order_date": "2024-07-20"
+        },
+        {
+            "region_id": "region_001",
+            "cabang_id": "cabang_002",
+            "koperasi_id": "koperasi_002",
+            "supplier_id": "SUP004",
+            "supplier_name": "PT Telur Unggul",
+            "address": "Jl. Ayam No. 101, Yogyakarta",
+            "phone": "+62 274 888 1011",
+            "email": "order@telurunggul.com",
+            "contact_person": "Siti Aminah",
+            "last_order_date": "2024-07-22"
+        },
+        {
+            "region_id": "region_001",
+            "cabang_id": "cabang_002",
+            "koperasi_id": "koperasi_002",
+            "supplier_id": "SUP005",
+            "supplier_name": "PT Mie Kenyal",
+            "address": "Jl. Mie No. 111, Medan",
+            "phone": "+62 61 999 1112",
+            "email": "support@miekenyal.co.id",
+            "contact_person": "Agus Setiawan",
+            "last_order_date": "2024-07-30"
+        },
+        {
+            "region_id": "region_001",
+            "cabang_id": "cabang_002",
+            "koperasi_id": "koperasi_002",
+            "supplier_id": "SUP006",
+            "supplier_name": "PT Susu Segar",
+            "address": "Jl. Susu No. 202, Bali",
+            "phone": "+62 361 444 2023",
+            "email": "hello@sususegar.com",
+            "contact_person": "Rina Marlina",
+            "last_order_date": "2024-07-18"
+        },
+        {
+            "region_id": "region_001",
+            "cabang_id": "cabang_002",
+            "koperasi_id": "koperasi_002",
+            "supplier_id": "SUP007",
+            "supplier_name": "PT Bersih Bersinar",
+            "address": "Jl. Bersih No. 303, Semarang",
+            "phone": "+62 24 333 3034",
+            "email": "clean@bersihbersinar.co.id",
+            "contact_person": "Joko Prasetyo",
+            "last_order_date": "2024-07-29"
+        },
+        {
+            "region_id": "region_001",
+            "cabang_id": "cabang_002",
+            "koperasi_id": "koperasi_002",
+            "supplier_id": "SUP008",
+            "supplier_name": "PT Gigi Sehat",
+            "address": "Jl. Sehat No. 404, Makassar",
+            "phone": "+62 411 222 4045",
+            "email": "care@gigisehat.com",
+            "contact_person": "Andi Rahmat",
+            "last_order_date": "2024-07-21"
+        }
+    ]
+}

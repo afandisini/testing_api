@@ -1,0 +1,20 @@
+[
+    {
+        "customer_id": "02177891",
+        "customer_name": "SYAHDAN.N",
+        "address": "Jl. Mawar No. 123, Jakarta",
+        "tariff": "350.000",
+        "electricity_type": "TELKOM",
+        "periode": "january",
+        "pelanggan": "Telepon"
+    },
+    {
+        "customer_id": "12345678901",
+        "customer_name": "SYAHDAN.N",
+        "address": "Jl. Mawar No. 123, Jakarta",
+        "tariff": "1.000.000",
+        "electricity_type": "INDIHOME",
+        "periode": "january",
+        "pelanggan": "Internet"
+    }
+]

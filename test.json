@@ -1,0 +1,88 @@
+{
+    "Januari_2023": {
+      "Estimasi_Data_Pinjaman": {
+        "SHU_Sebelum_Pajak": -28165200,
+        "Pajak_PPH_5": -1408260,
+        "SHU_Setelah_Pajak": -26756940
+      },
+      "Pembagian_SHU_untuk_Dana": {
+        "Dana_Cadangan": {
+          "persentase": "40%",
+          "jumlah": -10702776
+        },
+        "Jasa_Anggota": {
+          "persentase": "40%",
+          "jumlah": -10702776
+        },
+        "Dana_Pengurus": {
+          "persentase": "5%",
+          "jumlah": -1337847
+        },
+        "Dana_Karyawan": {
+          "persentase": "5%",
+          "jumlah": -1337847
+        },
+        "Dana_Pendidikan": {
+          "persentase": "5%",
+          "jumlah": -1337847
+        },
+        "Dana_Sosial": {
+          "persentase": "5%",
+          "jumlah": -1337847
+        }
+      },
+      "Pembagian_SHU_Anggota": {
+        "Jasa_Usaha": {
+          "persentase": "70%",
+          "jumlah": -7491943
+        },
+        "Jasa_Modal": {
+          "persentase": "30%",
+          "jumlah": -3210833
+        }
+      }
+    },
+    "Februari_2023": {
+      "Estimasi_Data_Pinjaman": {
+        "SHU_Sebelum_Pajak": -28165200,
+        "Pajak_PPH_5": -1408260,
+        "SHU_Setelah_Pajak": -26756940
+      },
+      "Pembagian_SHU_untuk_Dana": {
+        "Dana_Cadangan": {
+          "persentase": "40%",
+          "jumlah": -10702776
+        },
+        "Jasa_Anggota": {
+          "persentase": "40%",
+          "jumlah": -10702776
+        },
+        "Dana_Pengurus": {
+          "persentase": "5%",
+          "jumlah": -1337847
+        },
+        "Dana_Karyawan": {
+          "persentase": "5%",
+          "jumlah": -1337847
+        },
+        "Dana_Pendidikan": {
+          "persentase": "5%",
+          "jumlah": -1337847
+        },
+        "Dana_Sosial": {
+          "persentase": "5%",
+          "jumlah": -1337847
+        }
+      },
+      "Pembagian_SHU_Anggota": {
+        "Jasa_Usaha": {
+          "persentase": "70%",
+          "jumlah": -7491943
+        },
+        "Jasa_Modal": {
+          "persentase": "30%",
+          "jumlah": -3210833
+        }
+      }
+    }
+  }

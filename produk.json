@@ -1,0 +1,43 @@
+{
+    "draw": 1,
+    "recordsTotal": 3,
+    "recordsFiltered": 3,
+    "data": [
+        {
+            "id": 1,
+            "name": "Samsung Galaxy S21",
+            "slug": "samsung-galaxy-s21",
+            "description": "Latest model of Samsung Galaxy S21 with 128GB storage and 8GB RAM.",
+            "price": 11549855,
+            "currency": "IDR",
+            "stock": 50,
+            "category_id": 1,
+            "subcategory_id": 101,
+            "images": "https://example.com/images/samsung-galaxy-s21-front.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Apple MacBook Air M1",
+            "slug": "apple-macbook-air-m1",
+            "description": "Apple MacBook Air with M1 chip, 256GB SSD, and 8GB RAM.",
+            "price": 14399855,
+            "currency": "IDR",
+            "stock": 30,
+            "category_id": 1,
+            "subcategory_id": 102,
+            "images": "https://example.com/images/macbook-air-m1-front.jpg"
+        },
+        {
+            "id": 3,
+            "name": "Sony WH-1000XM4",
+            "slug": "sony-wh-1000xm4",
+            "description": "Wireless Noise-Cancelling Over-Ear Headphones with 30 hours of battery life.",
+            "price": 5069925,
+            "currency": "IDR",
+            "stock": 100,
+            "category_id": 1,
+            "subcategory_id": 101,
+            "images": "https://example.com/images/sony-wh-1000xm4-front.jpg"
+        }
+    ]
+}

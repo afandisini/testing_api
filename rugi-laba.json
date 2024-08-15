@@ -1,0 +1,74 @@
+{
+    "estimasi_data_pinjaman": {
+      "data": [
+        {
+          "No": 1,
+          "Keterangan": "Jumlah Pinjaman",
+          "Jumlah": 30000000
+        },
+        {
+          "No": 2,
+          "Keterangan": "Pendapatan Biaya Administrasi",
+          "Jumlah": 90000
+        },
+        {
+          "No": 3,
+          "Keterangan": "Pendapatan Biaya Bunga",
+          "Jumlah": 60000000
+        },
+        {
+          "No": 4,
+          "Keterangan": "Pendapatan Biaya Pembulatan",
+          "Jumlah": 1200
+        }
+      ],
+      "jumlah_tagihan": 90091200,
+      "estimasi_pendapatan_pinjaman": 60091200
+    },
+    "pendapatan": {
+      "data": [
+        {
+          "No": 1,
+          "Keterangan": "Pendapatan Pinjaman",
+          "Jumlah": -28165200
+        },
+        {
+          "No": 2,
+          "Keterangan": "Pendapatan Lainnya",
+          "Jumlah": 0
+        }
+      ],
+      "jumlah_pendapatan": -28165200
+    },
+    "biaya_biaya": {
+      "data": [
+        {
+          "No": 1,
+          "Keterangan": "Transaksi",
+          "Jumlah": 0
+        },
+        {
+          "No": 2,
+          "Keterangan": "Beban Gaji Karyawan",
+          "Jumlah": 0
+        },
+        {
+          "No": 3,
+          "Keterangan": "Biaya Listrik dan Air",
+          "Jumlah": 0
+        },
+        {
+          "No": 4,
+          "Keterangan": "Biaya Transportasi",
+          "Jumlah": 0
+        },
+        {
+          "No": 5,
+          "Keterangan": "Biaya Lainnya",
+          "Jumlah": 0
+        }
+      ],
+      "jumlah_biaya": 0
+    },
+    "laba_rugi": -28165200
+  }

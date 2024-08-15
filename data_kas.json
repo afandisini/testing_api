@@ -1,0 +1,49 @@
+{
+    "draw": 1,
+    "recordsTotal": 3,
+    "recordsFiltered": 3,
+    "data": [
+        {
+            "region_id": "region_001",
+            "cabang_id": "cabang_001",
+            "koperasi_id": "koperasi_001",
+            "nama_kas": "Kas Tunai",
+            "aktif": "Y",
+            "simpanan": "Y",
+            "penarikan": "Y",
+            "pinjaman": "Y",
+            "angsuran": "Y",
+            "pemasukan_kas": "Y",
+            "pengeluaran_kas": "Y",
+            "transfer_kas": "Y"
+        },
+        {
+            "region_id": "region_001",
+            "cabang_id": "cabang_001",
+            "koperasi_id": "koperasi_001",
+            "nama_kas": "Kas Besar",
+            "aktif": "T",
+            "simpanan": "T",
+            "penarikan": "T",
+            "pinjaman": "T",
+            "angsuran": "T",
+            "pemasukan_kas": "Y",
+            "pengeluaran_kas": "Y",
+            "transfer_kas": "Y"
+        },
+        {
+            "region_id": "region_001",
+            "cabang_id": "cabang_001",
+            "koperasi_id": "koperasi_001",
+            "nama_kas": "Transfer",
+            "aktif": "Y",
+            "simpanan": "T",
+            "penarikan": "T",
+            "pinjaman": "T",
+            "angsuran": "T",
+            "pemasukan_kas": "Y",
+            "pengeluaran_kas": "Y",
+            "transfer_kas": "Y"
+        }
+    ]
+}

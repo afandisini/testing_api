@@ -1,0 +1,43 @@
+{
+    "shu_sebelum_pajak": -28165200,
+    "pajak_pph_5": -1408260,
+    "shu_setelah_pajak": -26756940,
+    "pembagian_shu_untuk_dana": {
+      "Dana_Cadangan": {
+        "persentase": "40%",
+        "jumlah": -10702776
+      },
+      "Jasa_Anggota": {
+        "persentase": "40%",
+        "jumlah": -10702776
+      },
+      "Dana_Pengurus": {
+        "persentase": "5%",
+        "jumlah": -1337847
+      },
+      "Dana_Karyawan": {
+        "persentase": "5%",
+        "jumlah": -1337847
+      },
+      "Dana_Pendidikan": {
+        "persentase": "5%",
+        "jumlah": -1337847
+      },
+      "Dana_Sosial": {
+        "persentase": "5%",
+        "jumlah": -1337847
+      }
+    },
+    "pembagian_shu_anggota": {
+      "Jasa_Usaha": {
+        "persentase": "70%",
+        "jumlah": -7491943
+      },
+      "Jasa_Modal": {
+        "persentase": "30%",
+        "jumlah": -3210833
+      },
+      "Total_Pendapatan_Anggota": -28165200
+    },
+    "total_simpanan_anggota": -50000
+  }

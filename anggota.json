@@ -1,0 +1,72 @@
+{
+    "draw": 1,
+    "recordsTotal": 5,
+    "recordsFiltered": 5,
+    "data": [
+        {
+            "id": "anggota_001",
+            "region_id": "region_001",
+            "cabang_id": "cabang_001",
+            "koperasi_id": "koperasi_001",
+            "name": "John Doe",
+            "address": "Jl. Sudirman No. 12, Jakarta Pusat",
+            "phone": "+62 21 55556666",
+            "role": "superadmin",
+            "email": "john.doe@koperasi.com",
+            "username": "johndoe",
+            "password": "hashed_password_001"
+        },
+        {
+            "id": "anggota_002",
+            "region_id": "region_001",
+            "cabang_id": "cabang_002",
+            "koperasi_id": "koperasi_002",
+            "name": "Jane Smith",
+            "address": "Jl. Gatot Subroto No. 7, Jakarta Selatan",
+            "phone": "+62 21 66667777",
+            "role": "admin_region",
+            "email": "jane.smith@koperasi.com",
+            "username": "janesmith",
+            "password": "hashed_password_002"
+        },
+        {
+            "id": "anggota_003",
+            "region_id": "region_002",
+            "cabang_id": "cabang_003",
+            "koperasi_id": "koperasi_003",
+            "name": "Ali Ahmad",
+            "address": "Jl. Dago No. 22, Bandung",
+            "phone": "+62 22 66661111",
+            "role": "admin_cabang",
+            "email": "ali.ahmad@koperasi.com",
+            "username": "aliahmad",
+            "password": "hashed_password_003"
+        },
+        {
+            "id": "anggota_004",
+            "region_id": "region_002",
+            "cabang_id": "cabang_004",
+            "koperasi_id": "koperasi_004",
+            "name": "Maria Tan",
+            "address": "Jl. Buah Batu No. 9, Bandung",
+            "phone": "+62 22 77772222",
+            "role": "admin_koperasi",
+            "email": "maria.tan@koperasi.com",
+            "username": "mariatan",
+            "password": "hashed_password_004"
+        },
+        {
+          "id": "anggota_005",
+          "region_id": "region_002",
+          "cabang_id": "cabang_004",
+          "koperasi_id": "koperasi_004",
+          "name": "Budi Santoso",
+          "address": "Jl. Merdeka No. 1, Bandung",
+          "phone": "+62 22 88883333",
+          "role": "anggota",
+          "email": "budi.santoso@koperasi.com",
+          "username": "budisantoso",
+          "password": "hashed_password_005"
+        }
+    ]
+}

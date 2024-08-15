@@ -1,0 +1,38 @@
+[
+    {
+      "labels": ["Jan", "Feb", "Mar", "Apr", "Mei", "Jun", "Jul"],
+      "pinjaman": [47, 55, 35, 66, 45, 78, 34],
+      "simpanan": [65, 59, 80, 81, 56, 55, 40],
+      "angsuran": [49, 65, 20, 89, 78, 87, 67],
+      "tahun": 2024
+    },
+    {
+      "labels": ["Jan", "Feb", "Mar", "Apr", "Mei", "Jun", "Jul"],
+      "pinjaman": [28, 48, 40, 19, 86, 27, 90],
+      "simpanan": [65, 59, 80, 81, 56, 55, 40],
+      "angsuran": [47, 55, 35, 66, 45, 78, 34],
+      "tahun": 2023
+    },
+    {
+      "labels": ["Jan", "Feb", "Mar", "Apr", "Mei", "Jun", "Jul"],
+      "pinjaman": [28, 48, 40, 19, 86, 27, 90],
+      "simpanan": [65, 59, 80, 81, 56, 55, 40],
+      "angsuran": [47, 55, 35, 66, 45, 78, 34],
+      "tahun": 2022
+    },
+    {
+      "labels": ["Jan", "Feb", "Mar", "Apr", "Mei", "Jun", "Jul"],
+      "pinjaman": [28, 48, 40, 19, 86, 27, 90],
+      "simpanan": [65, 59, 80, 81, 56, 55, 40],
+      "angsuran": [47, 55, 35, 66, 45, 78, 34],
+      "tahun": 2021
+    },
+    {
+      "labels": ["Jan", "Feb", "Mar", "Apr", "Mei", "Jun", "Jul"],
+      "pinjaman": [28, 48, 40, 19, 86, 27, 90],
+      "simpanan": [65, 59, 80, 81, 56, 55, 40],
+      "angsuran": [47, 55, 35, 66, 45, 78, 34],
+      "tahun": 2020
+    }
+
+  ]

@@ -1,0 +1,137 @@
+{
+    "KasTunai": [
+        {
+            "no": 1,
+            "tanggal": "02 Feb 2024",
+            "jenis_transaksi": "Simpanan Sukarela",
+            "keterangan": "-",
+            "debet": 0,
+            "kredit": 30000,
+            "saldo": -30000
+        },
+        {
+            "no": 1,
+            "tanggal": "02 Mar 2024",
+            "jenis_transaksi": "Simpanan Pokok",
+            "keterangan": "-",
+            "debet": 0,
+            "kredit": 30000,
+            "saldo": -30000
+        },
+        {
+            "no": 2,
+            "tanggal": "03 Mar 2024",
+            "jenis_transaksi": "Simpanan Sukarela",
+            "keterangan": "-",
+            "debet": 0,
+            "kredit": 30000,
+            "saldo": -30000
+        },
+        {
+            "no": 1,
+            "tanggal": "03 Jul 2024",
+            "jenis_transaksi": "Simpanan Pokok",
+            "keterangan": "-",
+            "debet": 0,
+            "kredit": 30000,
+            "saldo": -30000
+        },
+        {
+            "no": 1,
+            "tanggal": "01 Jun 2024",
+            "jenis_transaksi": "Simpanan Pokok",
+            "keterangan": "-",
+            "debet": 0,
+            "kredit": 30000,
+            "saldo": -30000
+        },
+        {
+            "no": 1,
+            "tanggal": "01 May 2024",
+            "jenis_transaksi": "Simpanan Pokok",
+            "keterangan": "-",
+            "debet": 0,
+            "kredit": 30000,
+            "saldo": -30000
+        },
+        {
+            "no": 1,
+            "tanggal": "01 Sep 2024",
+            "jenis_transaksi": "Simpanan Pokok",
+            "keterangan": "-",
+            "debet": 0,
+            "kredit": 30000,
+            "saldo": -30000
+        },
+        {
+            "no": 1,
+            "tanggal": "01 Oct 2024",
+            "jenis_transaksi": "Simpanan Pokok",
+            "keterangan": "-",
+            "debet": 0,
+            "kredit": 30000,
+            "saldo": -30000
+        }
+    ],
+    "KasBesar": [
+        {
+            "no": 1,
+            "tanggal": "02 Feb 2024",
+            "jenis_transaksi": "-",
+            "keterangan": "-",
+            "debet": 0,
+            "kredit": 0,
+            "saldo": 0
+        },
+        {
+            "no": 2,
+            "tanggal": "02 Mar 2024",
+            "jenis_transaksi": "-",
+            "keterangan": "-",
+            "debet": 0,
+            "kredit": 0,
+            "saldo": 0
+        },
+
+        {
+            "no": 1,
+            "tanggal": "02 Jul 2024",
+            "jenis_transaksi": "-",
+            "keterangan": "-",
+            "debet": 0,
+            "kredit": 0,
+            "saldo": 0
+        }
+    ],
+    "Transfer": [
+        {
+            "no": 1,
+            "tanggal": "02 Feb 2024",
+            "jenis_transaksi": "-",
+            "keterangan": "-",
+            "debet": 0,
+            "kredit": 0,
+            "saldo": 0
+        },
+        {
+            "no": 1,
+            "tanggal": "02 Mar 2024",
+            "jenis_transaksi": "-",
+            "keterangan": "-",
+            "debet": 0,
+            "kredit": 0,
+            "saldo": 0
+        },
+
+        {
+            "no": 1,
+            "tanggal": "02 Jul 2024",
+            "jenis_transaksi": "-",
+            "keterangan": "-",
+            "debet": 0,
+            "kredit": 0,
+            "saldo": 0
+        }
+    ],
+    "TOTAL_SALDO_KAS_BANK": -30000
+}

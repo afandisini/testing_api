@@ -1,0 +1,20 @@
+[
+    {
+        "customer_id": "14474398592",
+        "customer_name": "SYAHDAN.N",
+        "address": "Jl. Mawar No. 123, Jakarta",
+        "tariff": "150000",
+        "electricity_type": "TAGIHAN AIR",
+        "periode": "january",
+        "pelanggan": "PASKA BAYAR"
+    },
+    {
+        "customer_id": "12345678901",
+        "customer_name": "ADI SANTOSO",
+        "address": "Jl. Melati No. 45, Bandung",
+        "tariff": "150000",
+        "electricity_type": "TAGIHAN AIR",
+        "periode": "january",
+        "pelanggan": "PASKA BAYAR"
+    }
+]

@@ -1,0 +1,22 @@
+{
+    "kas": [
+        {
+        "No": 1,
+        "Nama_Kas": "Kas Tunai",
+        "Saldo": 0
+        },
+        {
+        "No": 2,
+        "Nama_Kas": "Kas Besar",
+        "Saldo": 0
+        },
+        {
+        "No": 3,
+        "Nama_Kas": "Transfer",
+        "Saldo": 0
+        }
+    ],
+    "jumlah": 0,
+    "saldo": -28400200,
+    "saldo_periode_sebelumnya": -28400200
+}

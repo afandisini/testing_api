@@ -1,0 +1,111 @@
+{
+    "draw": 1,
+    "recordsTotal": 3,
+    "recordsFiltered": 3,
+    "data": [
+        {
+            "region_id": "region_001",
+            "cabang_id": "cabang_002",
+            "koperasi_id": "koperasi_002",
+            "item_id": "001",
+            "item_name": "Beras",
+            "category": "Sembako",
+            "quantity": 100,
+            "unit": "kg",
+            "price_per_unit": 10000,
+            "supplier": "PT Beras Nusantara",
+            "last_updated": "2024-08-06"
+        },
+        {
+            "region_id": "region_001",
+            "cabang_id": "cabang_002",
+            "koperasi_id": "koperasi_002",
+            "item_id": "002",
+            "item_name": "Minyak Goreng",
+            "category": "Sembako",
+            "quantity": 200,
+            "unit": "liter",
+            "price_per_unit": 15000,
+            "supplier": "PT Minyak Sejahtera",
+            "last_updated": "2024-08-06"
+        },
+        {
+            "region_id": "region_001",
+            "cabang_id": "cabang_002",
+            "koperasi_id": "koperasi_002",
+            "item_id": "003",
+            "item_name": "Gula Pasir",
+            "category": "Sembako",
+            "quantity": 150,
+            "unit": "kg",
+            "price_per_unit": 12000,
+            "supplier": "PT Gula Manis",
+            "last_updated": "2024-08-06"
+        },
+        {
+            "region_id": "region_001",
+            "cabang_id": "cabang_002",
+            "koperasi_id": "koperasi_002",
+            "item_id": "004",
+            "item_name": "Telur Ayam",
+            "category": "Sembako",
+            "quantity": 300,
+            "unit": "butir",
+            "price_per_unit": 2000,
+            "supplier": "PT Telur Unggul",
+            "last_updated": "2024-08-06"
+        },
+        {
+            "region_id": "region_001",
+            "cabang_id": "cabang_002",
+            "koperasi_id": "koperasi_002",
+            "item_id": "005",
+            "item_name": "Mie Instan",
+            "category": "Makanan",
+            "quantity": 500,
+            "unit": "bungkus",
+            "price_per_unit": 2500,
+            "supplier": "PT Mie Kenyal",
+            "last_updated": "2024-08-06"
+        },
+        {
+            "region_id": "region_001",
+            "cabang_id": "cabang_002",
+            "koperasi_id": "koperasi_002",
+            "item_id": "006",
+            "item_name": "Susu Kental Manis",
+            "category": "Minuman",
+            "quantity": 100,
+            "unit": "kaleng",
+            "price_per_unit": 8000,
+            "supplier": "PT Susu Segar",
+            "last_updated": "2024-08-06"
+        },
+        {
+            "region_id": "region_001",
+            "cabang_id": "cabang_002",
+            "koperasi_id": "koperasi_002",
+            "item_id": "007",
+            "item_name": "Sabun Cuci",
+            "category": "Kebutuhan Rumah Tangga",
+            "quantity": 50,
+            "unit": "paket",
+            "price_per_unit": 5000,
+            "supplier": "PT Bersih Bersinar",
+            "last_updated": "2024-08-06"
+        },
+        {
+            "region_id": "region_001",
+            "cabang_id": "cabang_002",
+            "koperasi_id": "koperasi_002",
+            "item_id": "008",
+            "item_name": "Pasta Gigi",
+            "category": "Kebutuhan Pribadi",
+            "quantity": 75,
+            "unit": "tube",
+            "price_per_unit": 10000,
+            "supplier": "PT Gigi Sehat",
+            "last_updated": "2024-08-06"
+        }
+    ]
+}

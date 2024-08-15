@@ -1,0 +1,90 @@
+[
+    {
+        "no": "SALDO SEBELUMNYA",
+        "kode_transaksi": "",
+        "tanggal_transaksi": "",
+        "akun_transaksi": "",
+        "dari_kas": "",
+        "untuk_kas": "",
+        "debet": "",
+        "kredit": "",
+        "saldo": -150000
+    },
+    {
+        "no": 1,
+        "kode_transaksi": "TRK00006",
+        "tanggal_transaksi": "29 Jan 2024",
+        "akun_transaksi": "Simpanan Sukarela",
+        "dari_kas": "Kas Tunai",
+        "untuk_kas": "-",
+        "debet": 0,
+        "kredit": -5000,
+        "saldo": -155000
+    },
+    {
+        "no": 2,
+        "kode_transaksi": "TRK00008",
+        "tanggal_transaksi": "02 Feb 2024",
+        "akun_transaksi": "Simpanan Sukarela",
+        "dari_kas": "Kas Tunai",
+        "untuk_kas": "-",
+        "debet": 0,
+        "kredit": -30000,
+        "saldo": -185000
+    },
+    {
+        "no": 3,
+        "kode_transaksi": "TRK00010",
+        "tanggal_transaksi": "26 Apr 2024",
+        "akun_transaksi": "Simpanan Pokok<br><code>Pencairan</code>",
+        "dari_kas": "Kas Tunai",
+        "untuk_kas": "-",
+        "debet": 0,
+        "kredit": -50000,
+        "saldo": -235000
+    },
+    {
+        "no": 4,
+        "kode_transaksi": "TPJ00006",
+        "tanggal_transaksi": "24 Jun 2024",
+        "akun_transaksi": "Pinjaman Anggota<br><code>Biaya Renovasi Rumah</code>",
+        "dari_kas": "Kas Tunai",
+        "untuk_kas": "-",
+        "debet": 0,
+        "kredit": -10000000,
+        "saldo": -10235000
+    },
+    {
+        "no": 5,
+        "kode_transaksi": "TBY00011",
+        "tanggal_transaksi": "24 Jun 2024",
+        "akun_transaksi": "Pembayaran Angsuran<br><code>Pembayaran Ke-1 , Cahyadi</code>",
+        "dari_kas": "-",
+        "untuk_kas": "Kas Tunai",
+        "debet": -1834800,
+        "kredit": 0,
+        "saldo": -8400200
+    },
+    {
+        "no": 6,
+        "kode_transaksi": "TPJ00007",
+        "tanggal_transaksi": "24 Jun 2024",
+        "akun_transaksi": "Pinjaman Anggota",
+        "dari_kas": "Kas Tunai",
+        "untuk_kas": "-",
+        "debet": 0,
+        "kredit": -10000000,
+        "saldo": -18400200
+    },
+    {
+        "no": 7,
+        "kode_transaksi": "TPJ00008",
+        "tanggal_transaksi": "24 Jun 2024",
+        "akun_transaksi": "Pinjaman Anggota",
+        "dari_kas": "Kas Tunai",
+        "untuk_kas": "-",
+        "debet": 0,
+        "kredit": -10000000,
+        "saldo": -28400200
+    }
+]

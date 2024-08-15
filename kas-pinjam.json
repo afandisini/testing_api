@@ -1,0 +1,33 @@
+{
+    "tagihan": [
+      {
+        "No": 1,
+        "Keterangan": "Pokok Pinjaman",
+        "Jumlah": 30000000
+      },
+      {
+        "No": 2,
+        "Keterangan": "Tagihan Pinjaman",
+        "Jumlah": 90091200
+      },
+      {
+        "No": 3,
+        "Keterangan": "Tagihan Denda",
+        "Jumlah": 0
+      },
+      {
+        "No": 4,
+        "Keterangan": "Tagihan Sudah Dibayar",
+        "Jumlah": 1834800
+      },
+      {
+        "No": 5,
+        "Keterangan": "Sisa Tagihan",
+        "Jumlah": 88256400
+      }
+    ],
+    "jumlah_tagihan_denda": 90091200,
+    "jumlah_peminjam": 3,
+    "peminjam_lunas": 0,
+    "pinjaman_belum_lunas": 3
+  }

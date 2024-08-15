@@ -1,0 +1,35 @@
+{
+    "help": [
+      {
+        "title": "A. Pembayaran Angsuran",
+        "steps": [
+          {
+            "description": "Admin mencatat <code class=\"bg-dangsoft p-1\">Pembayaran Angsuran</code> sesuai Jumlah Angsuran setiap anggota"
+          },
+          {
+            "description": "Anggota akan dikenakan <code class=\"bg-dangsoft p-1\">Denda</code> apabila terlambat melakukan pembayaran sesuai jatuh tempo"
+          },
+          {
+            "description": "Batas maksimal pembayaran adalah pada tanggal 15 (Lima Belas) setiap bulan, <code class=\"bg-dangsoft p-1\">Tanggal Dapat diubah pada menu Setting » Suku Bunga</code>"
+          }
+        ]
+      },
+      {
+        "title": "B. Pelunasan Cepat",
+        "steps": [
+          {
+            "description": "Anggota dinyatakan <code class=\"bg-dangsoft p-1\">LUNAS</code> apabila telah membayar sejumlah tagihan yang dibebankan dan tidak memiliki tagihan <code class=\"bg-dangsoft p-1\">Denda</code> atau tagihan lainnya"
+          },
+          {
+            "description": "Pelunasan dapat dilakukan walau Anggota masih memiliki kewajiban angsuran atau kurang dari tanggal jatuh tempo"
+          },
+          {
+            "description": "Jika Anggota telah menyelesaikan angsuran, Admin diharuskan melakukan <code class=\"bg-dangsoft p-1\">Validasi Pelunasan</code> untuk menghitung sisa pembayaran dan denda yang dibebankan kepada anggota"
+          },
+          {
+            "description": "Anggota dapat melakukan peminjaman selanjutnya jika tidak mempunyai tagihan dipinjaman sebelumnya"
+          }
+        ]
+      }
+    ]
+  }

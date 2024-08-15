@@ -1,0 +1,35 @@
+{
+    "draw": 1,
+    "recordsTotal": 4,
+    "recordsFiltered": 4,
+    "data": [
+        {
+            "id": "region_001",
+            "name": "Region 1",
+            "address": "Jl. Pahlawan No. 2, Jakarta",
+            "phone": "+62 21 87654321",
+            "email": "region1@indukkoperasia.com"
+        },
+        {
+            "id": "region_002",
+            "name": "Region 2",
+            "address": "Jl. Kemerdekaan No. 3, Bandung",
+            "phone": "+62 22 12345678",
+            "email": "region2@indukkoperasia.com"
+        },
+        {
+            "id": "region_003",
+            "name": "Region 3",
+            "address": "Jl. Diponegoro No. 4, Surabaya",
+            "phone": "+62 31 12345678",
+            "email": "region3@indukkoperasia.com"
+        },
+        {
+            "id": "region_004",
+            "name": "Region 4",
+            "address": "Jl. Ahmad Yani No. 5, Medan",
+            "phone": "+62 61 12345678",
+            "email": "region4@indukkoperasia.com"
+        }
+    ]
+}

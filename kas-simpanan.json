@@ -1,0 +1,62 @@
+{
+    "tahun_ini": [
+      {
+        "No": 1,
+        "Jenis_Akun": "Simpanan Sukarela",
+        "Simpanan": 0,
+        "Penarikan": 35000,
+        "Jumlah": -35000
+      },
+      {
+        "No": 2,
+        "Jenis_Akun": "Simpanan Pokok",
+        "Simpanan": 0,
+        "Penarikan": 50000,
+        "Jumlah": -50000
+      },
+      {
+        "No": 3,
+        "Jenis_Akun": "Simpanan Wajib",
+        "Simpanan": 0,
+        "Penarikan": 0,
+        "Jumlah": 0
+      },
+      {
+        "Jumlah_Total": {
+          "Simpanan": 0,
+          "Penarikan": 85000,
+          "Jumlah": -85000
+        }
+      }
+    ],
+    "tahun_kemarin": [
+      {
+        "No": 1,
+        "Jenis_Akun": "Simpanan Sukarela",
+        "Simpanan": 0,
+        "Penarikan": 0,
+        "Jumlah": 0
+      },
+      {
+        "No": 2,
+        "Jenis_Akun": "Simpanan Pokok",
+        "Simpanan": 0,
+        "Penarikan": 150000,
+        "Jumlah": -150000
+      },
+      {
+        "No": 3,
+        "Jenis_Akun": "Simpanan Wajib",
+        "Simpanan": 0,
+        "Penarikan": 0,
+        "Jumlah": 0
+      },
+      {
+        "Jumlah_Total": {
+          "Simpanan": 0,
+          "Penarikan": 150000,
+          "Jumlah": -150000
+        }
+      }
+    ]
+  }

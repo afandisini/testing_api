@@ -1,0 +1,85 @@
+{
+    "laporan_ppob": [
+      {
+        "tanggal_waktu": "03/08/2024 07:30",
+        "status": "Berhasil",
+        "transaksi": {
+          "id": "0308240004",
+          "nominal": 19885,
+          "id_kategori": "1",
+          "kategori": "Pulsa",
+          "produk": {
+            "nama": "Three 20.000",
+            "harga": 19885
+          },
+          "nomor_ponsel": "08961122444",
+          "nominal_produk": "20.000"
+        }
+      },
+      {
+        "tanggal_waktu": "02/08/2024 14:25",
+        "status": "Berhasil",
+        "transaksi": {
+          "id": "0308240003",
+          "nominal": 25200,
+          "id_kategori": "2",
+          "kategori": "Data",
+          "produk": {
+            "nama": "Kuota 9GB All + 3GB Lokal",
+            "harga": 25200
+          },
+          "nomor_ponsel": "08961122444",
+          "nominal_produk": "12GB"
+        }
+      },
+      {
+        "tanggal_waktu": "02/08/2024 09:23",
+        "status": "Berhasil",
+        "transaksi": {
+          "id": "0308240002",
+          "nominal": 6475,
+          "id_kategori": "2",
+          "kategori": "Data",
+          "produk": {
+            "nama": "Kuota 1GB 1 Minggu",
+            "harga": 6475
+          },
+          "nomor_ponsel": "08963467989",
+          "nominal_produk": "1GB"
+        }
+      },
+      {
+        "tanggal_waktu": "01/08/2024 15:13",
+        "status": "Berhasil",
+        "transaksi": {
+          "id": "0308240002",
+          "id_kategori": "2",
+          "kategori": "Data",
+          "nominal": 75000,
+          "produk": {
+            "nama": "Kuota 12GB 30 Hari Sakti",
+            "harga": 75000
+          },
+          "nomor_ponsel": "082252824822",
+          "nominal_produk": "12GB"
+        }
+      },
+
+      {
+        "tanggal_waktu": "01/08/2024 14:20",
+        "status": "Gagal",
+        "transaksi": {
+          "id": "0308240001",
+          "nominal": 75000,
+          "id_kategori": "2",
+          "kategori": "Data",
+          "produk": {
+            "nama": "Kuota 12GB 30 Hari Sakti",
+            "harga": 75000
+          },
+          "nomor_ponsel": "082252824822",
+          "nominal_produk": "12GB"
+        }
+      }
+    ]
+  }

@@ -1,0 +1,31 @@
+{
+    "draw": 1,
+    "recordsTotal": 3,
+    "recordsFiltered": 3,
+    "data": [
+        {
+            "categorysub_id": "CAT001",
+            "category_id": "CAT001",
+            "name": "TV",
+            "slug": "tv",
+            "keterangan": "Ok",
+            "last_order_date": "2024-07-25"
+        },
+        {
+            "categorysub_id": "CAT002",
+            "category_id": "CAT001",
+            "name": "Kulkas",
+            "slug": "kulkas",
+            "keterangan": "Ok",
+            "last_order_date": "2024-07-28"
+        },
+        {
+            "categorysub_id": "CAT003",
+            "category_id": "CAT001",
+            "name": "AC",
+            "slug": "ac",
+            "keterangan": "Ok",
+            "last_order_date": "2024-07-20"
+        }
+    ]
+}
